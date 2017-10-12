@@ -1,2 +1,2 @@
-# curated-twitter-lists
-The best list on Twitter, all in one place.
+# Twlist
+The best lists on Twitter, all in one place.
