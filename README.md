@@ -54,26 +54,26 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 - [POLITICO Europe](https://twitter.com/POLITICOEurope/lists/politico-europe)
 
-   *"A list of Politico Europe journalists."* by [POLITICO Europe](https://twitter.com/POLITICOEurope)
+   *"A list of Politico Europe journalists."* by [POLITICO Europe](https://twitter.com/POLITICOEurope).
 
 ## Science
 
 - [Language and Cognition](https://twitter.com/generuso/lists/language-and-cognition)
 
-   Expect discussions related to the latest language, development and cognition research by [How does it work](https://twitter.com/generuso)
+   Expect discussions related to the latest language, development and cognition research by [How does it work](https://twitter.com/generuso).
 
 
 ## Sports
 
 - [Premier League Clubs](https://twitter.com/premierleague/lists/premier-league-clubs)
 
-   *"Official accounts of all 20 Premier League clubs"* by [Premier League](https://twitter.com/premierleague)
+   *"Official accounts of all 20 Premier League clubs"* by [Premier League](https://twitter.com/premierleague).
 
 ## Tech
 
 - [Tech news](https://twitter.com/BBCClick/lists/tech-news)
 
-   An aggregation of the key news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick)
+   An aggregation of the key news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
 
 
 <p align="center">
