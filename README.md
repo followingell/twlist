@@ -2,7 +2,9 @@
 
 As a Twitter user I often got frustrated by how little attention lists had gotten compared to other features, it led me to tweet this:
 
+
 > It still astonishes me how little focus Twitter has put into Lists. Could easily be the platform's 10x feature. Elliot Partridge (@followingell) [September 19, 2017](https://twitter.com/followingell/status/910256129904701446?ref_src=twsrc%5Etfw)
+
 
 Later, I decided to do something about it and created Twlist. Twlist is an open, curated directory of the best lists on Twitter, all in one place.
 
