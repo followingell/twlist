@@ -75,6 +75,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
    An aggregation of the key, english-speaking news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
 
+- [Machine Learning](https://twitter.com/jordnb/lists/machine-learning)
+
+    *"Interesting people doing interesting things in AI"* by [Jordan Burgess](https://twitter.com/jordnb).
+
 
 <p align="center">
 	<sub>Follow me on <a href="https://twitter.com/followingell">Twitter</a>.</sub>
