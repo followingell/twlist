@@ -73,7 +73,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 - [Tech news](https://twitter.com/BBCClick/lists/tech-news)
 
-   An aggregation of the key news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
+   An aggregation of the key, english-speaking news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
 
 
 <p align="center">
