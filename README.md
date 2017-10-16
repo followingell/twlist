@@ -22,66 +22,44 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 ## Advertising
 
-- [Funny Brand Accounts](https://twitter.com/Adweek/lists/funny-brand-accounts)
-
-   [Adweek's](https://twitter.com/Adweek) curated list of funny, enaging brand social accounts.
+- [Funny Brand Accounts](https://twitter.com/Adweek/lists/funny-brand-accounts) - [Adweek's](https://twitter.com/Adweek) curated list of funny, enaging brand social accounts.
 
 ## Country Specific
 
-- [Iraq](https://twitter.com/DaliaEzzat_/lists/iraq)
-
-   *"Journos, analysts, bloggers and news resources tweeting about developments in Iraq"* by [Dalia Ezzat](https://twitter.com/DaliaEzzat_).
+- [Iraq](https://twitter.com/DaliaEzzat_/lists/iraq) - *"Journos, analysts, bloggers and news resources tweeting about developments in Iraq"* by [Dalia Ezzat](https://twitter.com/DaliaEzzat_).
 
 ## Cryptocurrency
 
-- [Altcoin Wizards](https://twitter.com/onemanatatime/lists/altcoin-wizards)
-
-   A Bitcoin & altcoin insight list curated by prominent crypto community figure, [Alvin Lee](https://twitter.com/onemanatatime).
+- [Altcoin Wizards](https://twitter.com/onemanatatime/lists/altcoin-wizards) - A Bitcoin & altcoin insight list curated by prominent crypto community figure, [Alvin Lee](https://twitter.com/onemanatatime).
 
 ## Finance
 
-- [Finance](https://twitter.com/pmarca/lists/finance)
-
-   [Marc Andreessen's](https://twitter.com/pmarca) personal list which broadly covers finance overall. 
+- [Finance](https://twitter.com/pmarca/lists/finance) - [Marc Andreessen's](https://twitter.com/pmarca) personal list which broadly covers finance overall. 
 
 ## News
 
-- [BBC News Official](https://twitter.com/BBCNews/lists/bbc-news-official)
-
-   *"List of BBC News presenters, correspondents and reporters tweeting officially"* by [BBC News](https://twitter.com/BBCNews).
+- [BBC News Official](https://twitter.com/BBCNews/lists/bbc-news-official) - *"List of BBC News presenters, correspondents and reporters tweeting officially"* by [BBC News](https://twitter.com/BBCNews).
 
 ## Politics
 
-- [POLITICO Europe](https://twitter.com/POLITICOEurope/lists/politico-europe)
-
-   *"A list of Politico Europe journalists."* by [POLITICO Europe](https://twitter.com/POLITICOEurope).
+- [POLITICO Europe](https://twitter.com/POLITICOEurope/lists/politico-europe) - *"A list of Politico Europe journalists."* by [POLITICO Europe](https://twitter.com/POLITICOEurope).
 
 ## Science
 
-- [Language and Cognition](https://twitter.com/generuso/lists/language-and-cognition)
-
-   Expect discussions related to the latest language, development and cognition research by [How does it work](https://twitter.com/generuso).
+- [Language and Cognition](https://twitter.com/generuso/lists/language-and-cognition) - Expect discussions related to the latest language, development and cognition research by [How does it work](https://twitter.com/generuso).
 
 
 ## Sports
 
-- [Premier League Clubs](https://twitter.com/premierleague/lists/premier-league-clubs)
-
-   *"Official accounts of all 20 Premier League clubs"* by [Premier League](https://twitter.com/premierleague).
+- [Premier League Clubs](https://twitter.com/premierleague/lists/premier-league-clubs) - *"Official accounts of all 20 Premier League clubs"* by [Premier League](https://twitter.com/premierleague).
 
 ## Tech
 
-- [Tech news](https://twitter.com/BBCClick/lists/tech-news)
+- [Tech news](https://twitter.com/BBCClick/lists/tech-news) - An aggregation of the key, english-speaking news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
 
-   An aggregation of the key, english-speaking news organizations that specialize in covering the technology sector by [BBC Click](https://twitter.com/BBCClick).
+- [Machine Learning](https://twitter.com/jordnb/lists/machine-learning) - *"Interesting people doing interesting things in AI"* by [Jordan Burgess](https://twitter.com/jordnb).
 
-- [Machine Learning](https://twitter.com/jordnb/lists/machine-learning)
-
-    *"Interesting people doing interesting things in AI"* by [Jordan Burgess](https://twitter.com/jordnb).
-
-- [Infosec](https://twitter.com/thegrugq/lists/infosec)
-
-   List of information security researchers maintained by one of the most well known figures in the industry, [the grugq](https://twitter.com/thegrugq). 
+- [Infosec](https://twitter.com/thegrugq/lists/infosec) - List of information security researchers maintained by one of the most well known figures in the industry, [the grugq](https://twitter.com/thegrugq). 
 
 
 
