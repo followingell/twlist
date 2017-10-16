@@ -79,6 +79,11 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
     *"Interesting people doing interesting things in AI"* by [Jordan Burgess](https://twitter.com/jordnb).
 
+- [Infosec](https://twitter.com/thegrugq/lists/infosec)
+
+   List of information security researchers maintained by one of the most well known figures in the industry, [the grugq](https://twitter.com/thegrugq). 
+
+
 
 <p align="center">
 	<sub>Follow me on <a href="https://twitter.com/followingell">Twitter</a>.</sub>
