@@ -81,8 +81,11 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 - [Infosec](https://twitter.com/thegrugq/lists/infosec)
 
-   List of information security researchers maintained by one of the most well known figures in the industry, [the grugq](https://twitter.com/thegrugq). 
+   List of information security researchers maintained by one of the most well known figures in the industry, [the grugq](https://twitter.com/thegrugq).
 
+- [FinTech Powerlist](https://twitter.com/iressUK/lists/fintech-powerlist)
+
+   *"The movers, the shakers, the doers and builders" by [IRESS UK](https://twitter.com/iressUK).
 
 
 <p align="center">
