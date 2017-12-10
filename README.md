@@ -34,7 +34,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 ## Cryptocurrency
 
-- [Crypto](https://twitter.com/followingell/lists/quality-crypto)
+- [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto)
 
    My [own](https://twitter.com/followingell) personal cryptocurrency list. Some memes & market talk but main focus is on figures who engage in high-quality, philosophical discussion. 
 
