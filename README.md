@@ -19,6 +19,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [Science](#science)
 - [Sports](#sports)
 - [Tech](#tech)
+- [Visualization](#visualization)
 
 ## Advertising
 
@@ -90,6 +91,12 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [FinTech Powerlist](https://twitter.com/iressUK/lists/fintech-powerlist)
 
    *"The movers, the shakers, the doers and builders" by [IRESS UK](https://twitter.com/iressUK).
+
+## Visualization
+
+- [Tableau Bloggers](https://twitter.com/tableau/lists/tableau-bloggers)
+
+   * The official list of Tableau bloggers maintained by [Tableau's official account](https://twitter.com/tableau). It serves as an easy way to understand what kind of things can be created using Tableau's free software.
 
 
 <p align="center">
