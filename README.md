@@ -100,7 +100,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 - [Tableau Bloggers](https://twitter.com/tableau/lists/tableau-bloggers)
 
-   * The official list of Tableau bloggers maintained by [Tableau's official account](https://twitter.com/tableau). It serves as an easy way to understand what kind of things can be created using Tableau's free software.
+   * The official list of Tableau bloggers maintained by [Tableau's official account](https://twitter.com/tableau). It serves as an easy way to understand what kind of things can be created using Tableau's software.
 
 
 <p align="center">
