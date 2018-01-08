@@ -39,7 +39,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
    My [own](https://twitter.com/followingell) personal cryptocurrency list. Some memes & market talk but main focus is on figures who engage in high-quality, philosophical discussion.
    
-- [Coindesk Top10+1](https://twitter.com/BudiSukmana/lists/coindesk-top10-1/members)
+- [Coindesk Top10+1](https://twitter.com/BudiSukmana/lists/coindesk-top10-1)
 
    A list of people mentioned in [Coindesk's](https://twitter.com/coindesk) Top 5 Analyst and Top 5 Token Trader [article](https://www.coindesk.com/coindesks-top-10-token-traders-analysts-2017/). Maintained by [Budi Sukmana](https://twitter.com/BudiSukmana). 
 
