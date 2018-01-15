@@ -38,6 +38,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto)
 
    My [own](https://twitter.com/followingell) personal cryptocurrency list. Some memes & market talk but main focus is on figures who engage in high-quality, philosophical discussion.
+
+- [Crypto Influencers](https://twitter.com/CryptoGround/lists/crypto-influencers)
+
+   A list of 'The 100 Most Influential People in Crypto' according to [Crypto Weekly](https://cryptoweekly.co/100/). Maintained by [CryptoGround](https://twitter.com/CryptoGround/lists).
    
 - [Coindesk Top10+1](https://twitter.com/BudiSukmana/lists/coindesk-top10-1)
 
