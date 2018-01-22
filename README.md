@@ -99,6 +99,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [FinTech Powerlist](https://twitter.com/iressUK/lists/fintech-powerlist)
 
    *"The movers, the shakers, the doers and builders" by [IRESS UK](https://twitter.com/iressUK).
+   
+- [Women in Datascience](https://twitter.com/BecomingDataSci/lists/women-in-data-science)
+
+   *"Women doing data science, big data, machine learning, statistics, etc."* by [Data Science Renee](https://twitter.com/BecomingDataSci).
 
 ## Visualization
 
