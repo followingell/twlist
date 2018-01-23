@@ -78,6 +78,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 ## Sports
 
+- [NBA Newsbreakers](https://twitter.com/NateDuncanNBA/lists/nba-newsbreakers)
+
+   A list of prominant NBA reporters by [Nate Duncan](https://twitter.com/NateDuncanNBA).
+
 - [Premier League Clubs](https://twitter.com/premierleague/lists/premier-league-clubs)
 
    *"Official accounts of all 20 Premier League clubs"* by [Premier League](https://twitter.com/premierleague).
