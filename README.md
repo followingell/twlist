@@ -80,7 +80,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 - [NBA Newsbreakers](https://twitter.com/NateDuncanNBA/lists/nba-newsbreakers)
 
-   A list of prominant NBA reporters by [Nate Duncan](https://twitter.com/NateDuncanNBA).
+   A list of prominent NBA reporters by [Nate Duncan](https://twitter.com/NateDuncanNBA).
 
 - [Premier League Clubs](https://twitter.com/premierleague/lists/premier-league-clubs)
 
