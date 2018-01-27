@@ -29,6 +29,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 
 ## Country Specific
 
+- [Newsday Africa](https://twitter.com/hugotwilliams/lists/newsday-africa)
+
+   *"An attempt to make the best #Africanews list on twitter."* by BBC Africa journalist [Hugo Williams](https://twitter.com/hugotwilliams).
+
 - [Iraq](https://twitter.com/DaliaEzzat_/lists/iraq)
 
    *"Journos, analysts, bloggers and news resources tweeting about developments in Iraq"* by [Dalia Ezzat](https://twitter.com/DaliaEzzat_).
@@ -62,6 +66,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [BBC News Official](https://twitter.com/BBCNews/lists/bbc-news-official)
 
    *"List of BBC News presenters, correspondents and reporters tweeting officially"* by [BBC News](https://twitter.com/BBCNews).
+   
+- [NewYorkerWriters](https://twitter.com/NewYorker/lists/newyorkerwriters)
+
+   *"A gathering of contributors, writers, and bloggers from The New Yorker magazine"* by [The New Yorker](https://twitter.com/NewYorker)
 
 ## Politics
 
