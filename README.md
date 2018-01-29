@@ -76,6 +76,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [POLITICO Europe](https://twitter.com/POLITICOEurope/lists/politico-europe)
 
    *"A list of Politico Europe journalists."* by [POLITICO Europe](https://twitter.com/POLITICOEurope).
+   
+- [US Congress](https://twitter.com/verified/lists/us-congress)
+
+   Current US congress members by [Twitter Verified](https://twitter.com/verified/).
 
 ## Science
 
