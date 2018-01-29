@@ -79,7 +79,7 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
    
 - [US Congress](https://twitter.com/verified/lists/us-congress)
 
-   Current US congress members by [Twitter Verified](https://twitter.com/verified/).
+   Current US Congress members by [Twitter Verified](https://twitter.com/verified/).
 
 ## Science
 
