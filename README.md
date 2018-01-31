@@ -36,6 +36,10 @@ Later, I decided to do something about it and created Twlist. Twlist is an open,
 - [Iraq](https://twitter.com/DaliaEzzat_/lists/iraq)
 
    *"Journos, analysts, bloggers and news resources tweeting about developments in Iraq"* by [Dalia Ezzat](https://twitter.com/DaliaEzzat_).
+   
+- [NYT National Journalists](https://twitter.com/NYTNational/lists/nyt-national-journalists)
+
+   *"Reporters and editors covering the United States for The New York Times."* by [NYT National News](https://twitter.com/NYTNational)
 
 ## Cryptocurrency
 
